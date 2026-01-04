@@ -1,0 +1,25 @@
+# Group 24
+
+#Shiref Khaled Elhalawany -  221100944
+
+#Ahmed Anis Hassan - 221100101 
+
+#Karim Ashraf Elsayed - 221100391
+
+#Kareem Shaheen - 221101524
+
+# Core Data Science
+numpy>=1.24.0
+pandas>=1.5.3
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Interactive Environment
+jupyter>=1.0.0
+notebook>=6.5.0
