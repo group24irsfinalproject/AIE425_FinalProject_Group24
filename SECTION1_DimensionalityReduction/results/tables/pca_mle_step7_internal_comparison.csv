@@ -1,0 +1,7 @@
+UserID,ItemID,Pred_MLE_Top5,Status,Pred_MLE_Top10,Diff,AbsDiff
+1,99904,1.0,Missing,1.0,0.0,0.0
+1,119705,1.0,Missing,1.0,0.0,0.0
+134,99904,1.0,Missing,1.0,0.0,0.0
+134,119705,1.0,Missing,1.0,0.0,0.0
+903,99904,1.0,Missing,1.0,0.0,0.0
+903,119705,1.0,Missing,1.0,0.0,0.0

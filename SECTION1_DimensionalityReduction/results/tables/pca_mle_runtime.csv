@@ -1,0 +1,5 @@
+Method,Stage,Seconds,Extra
+PCA_MLE,Covariance_Estimation,60.31498250000004,
+PCA_MLE,EigenDecomposition,0.18898670000271522,k=7
+PCA_MLE,Prediction_Top5,0.009222000000590924,
+PCA_MLE,Prediction_Top10,0.0044736000018019695,

@@ -1,0 +1,5 @@
+Method,k,Components,Memory_MB
+Truncated_SVD,5,Uk + Sigma_k + Vk^T,1.0988616943359375
+Truncated_SVD,20,Uk + Sigma_k + Vk^T,4.397735595703125
+Truncated_SVD,50,Uk + Sigma_k + Vk^T,11.005783081054688
+Truncated_SVD,100,Uk + Sigma_k + Vk^T,22.049713134765625

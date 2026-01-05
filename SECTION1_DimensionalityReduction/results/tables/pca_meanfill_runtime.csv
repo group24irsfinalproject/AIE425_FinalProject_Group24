@@ -1,0 +1,5 @@
+Method,Stage,Seconds,Extra
+PCA_MeanFill,Covariance_Estimation,0.4645837999996729,k=32
+PCA_MeanFill,EigenDecomposition,0.3475208999989263,k=32
+PCA_MeanFill,Prediction_Top5,0.010567299999820534,
+PCA_MeanFill,Prediction_Top10,0.010082500000862638,

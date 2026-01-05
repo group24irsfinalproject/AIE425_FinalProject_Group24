@@ -1,0 +1,11 @@
+Method,Stage,Seconds,Extra
+SVD,Decomposition_Full,61.21231629999238,
+Truncated_SVD,Reconstruction_k,13.640404400008265,k=5
+Truncated_SVD,Reconstruction_k,14.105661699999473,k=20
+Truncated_SVD,Reconstruction_k,13.038085300009698,k=50
+Truncated_SVD,Reconstruction_k,12.845244800002547,k=100
+Truncated_SVD,Error_Computation,0.33994499999971595,k=5
+Truncated_SVD,Error_Computation,0.3674022000050172,k=20
+Truncated_SVD,Error_Computation,0.3553747999976622,k=50
+Truncated_SVD,Error_Computation,0.4019862999994075,k=100
+Truncated_SVD,Prediction,0.003865200007567182,
