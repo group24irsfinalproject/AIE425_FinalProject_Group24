@@ -1,0 +1,7 @@
+Scenario (N),Algorithm,Hit Rate
+3,Switching Hybrid,0.1
+3,Popularity,0.0
+5,Switching Hybrid,0.0
+5,Popularity,0.0
+10,Switching Hybrid,0.1
+10,Popularity,0.0
